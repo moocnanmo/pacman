@@ -2,5 +2,4 @@
 
 两个文件夹，分别采用pygame和np库开发
 
-![image-20220529172925935](C:\Users\只属于她\AppData\Roaming\Typora\typora-user-images\image-20220529172925935.png)
-
+![image-20220529172925935](https://img-blog.csdnimg.cn/b734ec40fabc471a88ebc3abf9221a7e.png)
